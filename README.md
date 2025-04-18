@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 [![Resume Matcher](Assets/img/Resume_Matcher_GitHub_Banner.png)](https://www.resumematcher.fyi)
@@ -275,3 +276,6 @@ Take the leap, contribute, and let's grow together! 🚀
 <a href="https://github.com/srbhr/Resume-Matcher/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=srbhr/Resume-Matcher" />
 </a>
+
+# Resume-Matcher
+  84f775f1471801c48ea228f9e6b2d45af420b287
